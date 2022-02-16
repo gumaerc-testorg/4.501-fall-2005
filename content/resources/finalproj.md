@@ -2,8 +2,13 @@
 content_type: resource
 description: This file includes step wise instructions for the group of students for
   their final project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-501-architectural-construction-and-computation-fall-2005/8e573d7fb932ed6feceb0bf8a69e13a3_finalproj.pdf
+file: /media/courses/4-501-architectural-construction-and-computation-fall-2005/8e573d7fb932ed6feceb0bf8a69e13a3_finalproj.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: finalproj.pdf
 uid: 8e573d7f-b932-ed6f-eceb-0bf8a69e13a3

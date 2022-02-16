@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 3250f843-6e28-da99-a650-6994ebacc046
 ---
@@ -34,7 +37,7 @@ RECITATIONS
 Introduction to Traditional Design
 {{< tdclose >}}
 {{< tdopen >}}
-Digital ProjectTM Recitation 1 ([PDF]({{< baseurl >}}/resources/recit1))
+Digital Project{{< sup "TM" >}} Recitation 1 ([PDF]({{< baseurl >}}/resources/recit1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +49,7 @@ Digital ProjectTM Recitation 1 ([PDF]({{< baseurl >}}/resources/recit1))
 Field Trip
 {{< tdclose >}}
 {{< tdopen >}}
-Digital ProjectTM Recitation 2 ([PDF]({{< baseurl >}}/resources/recit2))
+Digital Project{{< sup "TM" >}} Recitation 2 ([PDF]({{< baseurl >}}/resources/recit2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +61,7 @@ Digital ProjectTM Recitation 2 ([PDF]({{< baseurl >}}/resources/recit2))
 Presentation on Design
 {{< tdclose >}}
 {{< tdopen >}}
-Digital ProjectTM Recitation 3 ([PDF]({{< baseurl >}}/resources/recit3))
+Digital Project{{< sup "TM" >}} Recitation 3 ([PDF]({{< baseurl >}}/resources/recit3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +73,7 @@ Digital ProjectTM Recitation 3 ([PDF]({{< baseurl >}}/resources/recit3))
 Presentation on Construction
 {{< tdclose >}}
 {{< tdopen >}}
-Digital ProjectTM Recitation 4 ([PDF]({{< baseurl >}}/resources/recit4))
+Digital Project{{< sup "TM" >}} Recitation 4 ([PDF]({{< baseurl >}}/resources/recit4))
 {{< tdclose >}}
 
 {{< trclose >}}

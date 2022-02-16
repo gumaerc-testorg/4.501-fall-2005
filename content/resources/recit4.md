@@ -2,8 +2,13 @@
 content_type: resource
 description: This file explains drawing generation which includes creating plans,
   sections and elevations from a digital model.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-501-architectural-construction-and-computation-fall-2005/2b589b213c11adbd4eceedb9a8873393_recit4.pdf
+file: /media/courses/4-501-architectural-construction-and-computation-fall-2005/2b589b213c11adbd4eceedb9a8873393_recit4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: recit4.pdf
 uid: 2b589b21-3c11-adbd-4ece-edb9a8873393
