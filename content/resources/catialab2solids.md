@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d340dcdb-52b7-b0af-afd3-fef584b6f275
 resourcetype: Document
 title: catialab2solids.pdf
 uid: 6a38c549-5214-b5de-2434-5b81ec597b5b
