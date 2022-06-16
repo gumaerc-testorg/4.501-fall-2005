@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This recitations section provides information on the recitation sessions
+  held during the course with the corresponding files for these.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -37,7 +39,7 @@ RECITATIONS
 Introduction to Traditional Design
 {{< tdclose >}}
 {{< tdopen >}}
-Digital Project{{< sup "TM" >}} Recitation 1 ([PDF]({{< baseurl >}}/resources/recit1))
+Digital Project{{< sup "TM" >}} Recitation 1 ({{% resource_link 9ab41a9f-061a-a56a-423e-5491397246c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +51,7 @@ Digital Project{{< sup "TM" >}} Recitation 1 ([PDF]({{< baseurl >}}/resources/re
 Field Trip
 {{< tdclose >}}
 {{< tdopen >}}
-Digital Project{{< sup "TM" >}} Recitation 2 ([PDF]({{< baseurl >}}/resources/recit2))
+Digital Project{{< sup "TM" >}} Recitation 2 ({{% resource_link b1a65441-c056-7484-b239-7e721297a072 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Digital Project{{< sup "TM" >}} Recitation 2 ([PDF]({{< baseurl >}}/resources/re
 Presentation on Design
 {{< tdclose >}}
 {{< tdopen >}}
-Digital Project{{< sup "TM" >}} Recitation 3 ([PDF]({{< baseurl >}}/resources/recit3))
+Digital Project{{< sup "TM" >}} Recitation 3 ({{% resource_link 7b377f7c-092f-adb1-b936-286de7fba084 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +75,7 @@ Digital Project{{< sup "TM" >}} Recitation 3 ([PDF]({{< baseurl >}}/resources/re
 Presentation on Construction
 {{< tdclose >}}
 {{< tdopen >}}
-Digital Project{{< sup "TM" >}} Recitation 4 ([PDF]({{< baseurl >}}/resources/recit4))
+Digital Project{{< sup "TM" >}} Recitation 4 ({{% resource_link 2b589b21-3c11-adbd-4ece-edb9a8873393 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
