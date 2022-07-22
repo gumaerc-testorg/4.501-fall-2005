@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on course description, course organization,
+  course policies, assignments, and grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c9378ca2-d17d-7bca-b207-8dac91cdeb2a
 ---
