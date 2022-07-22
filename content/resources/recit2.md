@@ -6,6 +6,7 @@ file: /courses/4-501-architectural-construction-and-computation-fall-2005/b1a654
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: recit2.pdf
 uid: b1a65441-c056-7484-b239-7e721297a072
 ---
 This file explains topics of making a part with a sketch, using navigational icons.
-

@@ -6,6 +6,7 @@ file: /courses/4-501-architectural-construction-and-computation-fall-2005/2b589b
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: recit4.pdf
 uid: 2b589b21-3c11-adbd-4ece-edb9a8873393
 ---
 This file explains drawing generation which includes creating plans, sections and elevations from a digital model.
-

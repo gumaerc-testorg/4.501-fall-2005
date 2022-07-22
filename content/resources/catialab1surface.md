@@ -6,6 +6,7 @@ file: /courses/4-501-architectural-construction-and-computation-fall-2005/b23406
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: catialab1surface.pdf
 uid: b2340693-edf5-1bab-f578-133a13ceb2ce
 ---
 This file expalins the catia tutorial for generation of parametrically defined basic surfaces, creating a plane, and modifying the loft.
-

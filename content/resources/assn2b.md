@@ -6,6 +6,7 @@ file: /courses/4-501-architectural-construction-and-computation-fall-2005/dedaa6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn2b.pdf
 uid: dedaa65c-51cf-936d-c059-f73a4e5ce00c
 ---
 This file includes instructions for the assignment which calls for new physical models and should not revise the existing models.
-
