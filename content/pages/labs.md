@@ -10,7 +10,7 @@ title: Labs
 uid: d340dcdb-52b7-b0af-afd3-fef584b6f275
 ---
 
-Two lab files are presented here which give a brief introduction to making surfaces and solids using Digital Project{{< sup "TM" >}}. For more information on Digital Project{{< sup "TM" >}}, go to their Web site at [Gehry Technologies](http://www.gehrytechnologies.com/).
+Two lab files are presented here which give a brief introduction to making surfaces and solids using Digital Project{{< sup "TM" >}}. For more information on Digital Project{{< sup "TM" >}}, go to their Web site at {{% resource_link "67c9ef20-a1aa-497f-904f-5ab25e352d4b" "Gehry Technologies" %}}.
 
 Surfaces in Digital Project{{< sup "TM" >}} ({{% resource_link b2340693-edf5-1bab-f578-133a13ceb2ce "PDF" %}})
 
