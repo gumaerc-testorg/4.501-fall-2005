@@ -4,7 +4,7 @@ description: This file explains importing an Autocad file into digital project a
   creating a reference file, using the reference file in a product (master model),
   drawing in geometrical workbench (outside the sketcher), creating solids in a separate
   part, and saving the files.
-file: /courses/4-501-architectural-construction-and-computation-fall-2005/7b377f7c092fadb1b936286de7fba084_recit3.pdf
+file: /ol-ocw-studio-app/courses/4-501-architectural-construction-and-computation-fall-2005/7b377f7c092fadb1b936286de7fba084_recit3.pdf
 file_size: 49961
 file_type: application/pdf
 learning_resource_types:
