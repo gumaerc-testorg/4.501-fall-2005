@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes the problem statements for the students for assignment
   2 which should apply CNC router technique to improve manufacturing time.
-file: /courses/4-501-architectural-construction-and-computation-fall-2005/dda228b716150f6785f261e09f02f319_assn2a.pdf
+file: /ol-ocw-studio-app/courses/4-501-architectural-construction-and-computation-fall-2005/dda228b716150f6785f261e09f02f319_assn2a.pdf
 file_size: 127772
 file_type: application/pdf
 learning_resource_types:
