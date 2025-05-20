@@ -2,7 +2,7 @@
 content_type: resource
 description: One example of the work produced in the class, fabricated by machine
   from digital drawings. (Image by Prof. Larry Sass.)
-file: /ol-ocw-studio-app/courses/4-501-architectural-construction-and-computation-fall-2005/f4e8a2ef808411de78e85919496201cb_chp_digdesign.jpg
+file: /courses/4-501-architectural-construction-and-computation-fall-2005/f4e8a2ef808411de78e85919496201cb_chp_digdesign.jpg
 file_size: 28345
 file_type: image/jpeg
 image_metadata:

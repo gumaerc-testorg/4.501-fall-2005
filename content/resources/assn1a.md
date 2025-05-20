@@ -3,7 +3,7 @@ content_type: resource
 description: This file includes the assignment description which is based on the architectural
   intent and material quality of the overall structure as well as on the environmental
   and structural performance requirements for the building.
-file: /ol-ocw-studio-app/courses/4-501-architectural-construction-and-computation-fall-2005/74b34e4542a79deaaea18b03bc867833_assn1a.pdf
+file: /courses/4-501-architectural-construction-and-computation-fall-2005/74b34e4542a79deaaea18b03bc867833_assn1a.pdf
 file_size: 117496
 file_type: application/pdf
 learning_resource_types:
