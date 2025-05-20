@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains topics of making a part with a sketch, using navigational
   icons.
-file: /ol-ocw-studio-app/courses/4-501-architectural-construction-and-computation-fall-2005/b1a65441c0567484b2397e721297a072_recit2.pdf
+file: /courses/4-501-architectural-construction-and-computation-fall-2005/b1a65441c0567484b2397e721297a072_recit2.pdf
 file_size: 57500
 file_type: application/pdf
 learning_resource_types:
