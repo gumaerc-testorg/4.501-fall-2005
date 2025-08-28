@@ -7,7 +7,7 @@ file: /ol-ocw-studio-app/courses/4-501-architectural-construction-and-computatio
 file_size: 2628747
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
