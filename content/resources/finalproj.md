@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes step wise instructions for the group of students for
   their final project.
-file: /courses/4-501-architectural-construction-and-computation-fall-2005/8e573d7fb932ed6feceb0bf8a69e13a3_finalproj.pdf
+file: /ol-ocw-studio-app/courses/4-501-architectural-construction-and-computation-fall-2005/8e573d7fb932ed6feceb0bf8a69e13a3_finalproj.pdf
 file_size: 29418
 file_type: application/pdf
 learning_resource_types:
